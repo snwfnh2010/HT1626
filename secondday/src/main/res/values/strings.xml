@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SecondDay</string>
+    <string name="enterCountry">请输入国家</string>
+    <string name="add">添加</string>
+    <string name="tv_title">这是主界面</string>
+</resources>

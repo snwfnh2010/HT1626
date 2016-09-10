@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HT1626.iml" filepath="$PROJECT_DIR$/HT1626.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application9.8/application9.8.iml" filepath="$PROJECT_DIR$/application9.8/application9.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application9.82/application9.82.iml" filepath="$PROJECT_DIR$/application9.82/application9.82.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application9.9/application9.9.iml" filepath="$PROJECT_DIR$/application9.9/application9.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application_login/application_login.iml" filepath="$PROJECT_DIR$/application_login/application_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dateapplication9.10/dateapplication9.10.iml" filepath="$PROJECT_DIR$/dateapplication9.10/dateapplication9.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_zhy_15_weixin_6_0_ui4/demo_zhy_15_weixin_6_0_ui4.iml" filepath="$PROJECT_DIR$/demo_zhy_15_weixin_6_0_ui4/demo_zhy_15_weixin_6_0_ui4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstday/firstday.iml" filepath="$PROJECT_DIR$/firstday/firstday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarysystem/librarysystem.iml" filepath="$PROJECT_DIR$/librarysystem/librarysystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplicationtest/myapplicationtest.iml" filepath="$PROJECT_DIR$/myapplicationtest/myapplicationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondday/secondday.iml" filepath="$PROJECT_DIR$/secondday/secondday.iml" />
+    </modules>
+  </component>
+</project>

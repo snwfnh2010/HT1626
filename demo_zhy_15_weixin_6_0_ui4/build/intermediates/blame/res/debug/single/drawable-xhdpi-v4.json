@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_faxian.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xhdpi\\iconfont_faxian.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_me.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xhdpi\\iconfont_me.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friend.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xhdpi\\iconfont_friend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_find.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xhdpi\\iconfont_find.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weixin.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xhdpi\\weixin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_chat.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-xhdpi\\iconfont_chat.png"
+    }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+
+        android:textSize="40dp"
+        android:text="兴趣爱好"
+        android:id="@+id/textview_hobby"
+        style="@style/widget_styles" />
+    <CheckBox
+        android:text="吃"
+        android:id="@+id/cb_eat"
+        style="@style/widget_styles" />
+    <CheckBox
+        android:text="喝"
+        android:id="@+id/cb_drink"
+        style="@style/widget_styles" />
+    <CheckBox
+        android:text="玩"
+        android:id="@+id/cb_play"
+        style="@style/widget_styles" />
+    <CheckBox
+        android:text="乐"
+        android:id="@+id/cb_happy"
+        style="@style/widget_styles" />
+
+
+</LinearLayout>

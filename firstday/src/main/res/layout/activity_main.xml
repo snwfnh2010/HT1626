@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+
+    tools:context="com.example.firstday.MainActivity">
+
+    <TextView
+
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/edit_entryUserName"
+        android:layout_alignTop="@id/edit_entryUserName"
+        android:text="@string/userName"
+        android:id="@+id/tv_userName"/>
+    <EditText
+
+        android:layout_toRightOf="@id/tv_userName"
+        android:hint="@string/tv_entryUserName"
+        android:id="@id/edit_entryUserName"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_alignBottom="@+id/edit_entryUserPwd"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/userPSD"
+        android:id="@+id/tv_userPWD"
+        android:layout_below="@id/tv_userName" />
+    <EditText
+
+        android:layout_below="@id/tv_userName"
+        android:layout_toRightOf="@id/tv_userPWD"
+        android:id="@+id/edit_entryUserPwd"
+        android:hint="@string/edit_entryUserPwd"
+        android:inputType="textPassword"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <CheckBox
+        android:id="@+id/cb_remberPwd"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/edit_entryUserPwd"
+        android:layout_alignParentRight="true"
+        android:text="@string/cb_remberPWD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/cb_remberPwd"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout">
+
+        <Button
+
+           android:layout_weight="1"
+            android:layout_width="0sp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:text="@string/login"
+            android:id="@+id/bt_login" />
+        <Button
+            android:layout_weight="1"
+
+            android:layout_width="0sp"
+            android:layout_height="wrap_content"
+            android:text="@string/bt_register"
+            android:id="@+id/bt_register" />
+
+
+        
+        
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Application_Login</string>
+    <string name="register">注册界面</string>
+    <string name="accountName">帐号名：</string>
+    <string name="enterAccount">请输入帐号名</string>
+    <string name="re_Pwd">密　码：</string>
+    <string name="enterRePwd">请输入密码</string>
+    <string name="checkPwd">确认密码：</string>
+    <string name="rrenterPwd">请再次输入密码</string>
+    <string name="phoneNumber">手机号：</string>
+    <string name="enterPhNu">请输入手机号</string>
+    <string name="confireregister">注册</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="login">登录界面</string>
+    <string name="useName">用户名：</string>
+    <string name="enterUseName">请输入用户名</string>
+    <string name="usePwd">密　码：</string>
+    <string name="enterUsePwd">请输入密码</string>
+    <string name="remberName">记住用户名</string>
+    <string name="remberPwd">记住密码</string>
+    <string name="llogin">登录</string>
+    <string name="lregister">注册</string>
+    <string name="forgetPwd">忘记密码</string>
+
+</resources>

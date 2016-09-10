@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_allfriends.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-mdpi\\ic_menu_allfriends.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_start_conversation.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-mdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_emoticons.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-mdpi\\ic_menu_emoticons.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_myplaces.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-mdpi\\ic_menu_myplaces.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_friendslist.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-mdpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_cc.png",
+        "source": "D:\\AndroidStudioProjects\\HT1626\\HT1626\\demo_zhy_15_weixin_6_0_ui4\\src\\main\\res\\drawable-mdpi\\ic_menu_cc.png"
+    }
+]

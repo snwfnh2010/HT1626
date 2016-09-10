@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files (x86)\Android\Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/application9.8" />
+            <option value="$PROJECT_DIR$/application9.82" />
+            <option value="$PROJECT_DIR$/application9.9" />
+            <option value="$PROJECT_DIR$/application_login" />
+            <option value="$PROJECT_DIR$/dateapplication9.10" />
+            <option value="$PROJECT_DIR$/demo_zhy_15_weixin_6_0_ui4" />
+            <option value="$PROJECT_DIR$/firstday" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/librarysystem" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplicationtest" />
+            <option value="$PROJECT_DIR$/secondday" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/application9.8" />
+            <option value="$PROJECT_DIR$/application9.82" />
+            <option value="$PROJECT_DIR$/application9.9" />
+            <option value="$PROJECT_DIR$/application_login" />
+            <option value="$PROJECT_DIR$/dateapplication9.10" />
+            <option value="$PROJECT_DIR$/demo_zhy_15_weixin_6_0_ui4" />
+            <option value="$PROJECT_DIR$/firstday" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/librarysystem" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplicationtest" />
+            <option value="$PROJECT_DIR$/secondday" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

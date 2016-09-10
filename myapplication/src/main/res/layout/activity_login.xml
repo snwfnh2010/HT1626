@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+
+        android:textSize="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_user"
+        android:text="@string/userName"
+        />
+
+    <FrameLayout
+        android:layout_toRightOf="@id/tv_user"
+        android:id="@+id/layout_useName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <EditText
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_entryUser"
+            android:hint="@string/entryUserName"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/tv_user"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+    </FrameLayout>
+
+
+
+</RelativeLayout>
